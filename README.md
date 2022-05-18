@@ -53,4 +53,11 @@
    COPY ./site-content/index.html /usr/share/nginx/html/index.html
     ```
 
+- Para continuar, copiamos el archivo `index.html` que hemos creado anteriormente en el directorio `./Documentos/nginx/site-content/` dentro del directorio `./usr/share/nginx/html` con el comando `cp index.html ./usr/share/nginx/html/`
+
+- Ahora ya estamos listos para construir la imagen, podemos hacerlo con el comando `sudo docker build -t webserver .`
+- Deberia salir de la siguente manera
+
+![img]()
+![img]()
 
