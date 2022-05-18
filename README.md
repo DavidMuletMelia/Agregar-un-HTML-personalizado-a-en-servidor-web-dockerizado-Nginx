@@ -37,3 +37,9 @@
 </body>
 </html>
 ```
+
+- Por último ejecutamos el siguente comando `docker run --rm -d -p 8080:80 --name web -v ~/Documentos/nginx/site-content:/usr/share/nginx/html nginx` agragando la marca `-v` para crear un volumen
+
+- Y ya deberiamos poder ver el resultado refrescando ![Link](http://localhost:8080)
+
+
