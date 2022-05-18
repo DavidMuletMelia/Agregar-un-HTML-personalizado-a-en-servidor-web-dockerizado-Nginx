@@ -43,3 +43,14 @@
 - Y ya deberiamos poder ver el resultado refrescando ![Link](http://localhost:8080)
 
 
+## - CREACIÓN DE UNA IMAAGEN PERSONALIZADA -
+
+- Creamos un 'Dockerfile' dentro del directorio `./Documentos/nginx/`
+- Usamos el comando `sudo nano Dockerfile`
+- Dentro de `Dockerfile` escribimos lo siguente
+    ```
+   FROM nginx:latest
+   COPY ./site-content/index.html /usr/share/nginx/html/index.html
+    ```
+
+
