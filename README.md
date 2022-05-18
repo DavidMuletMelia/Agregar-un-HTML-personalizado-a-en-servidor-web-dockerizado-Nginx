@@ -12,7 +12,7 @@
 
 ![img](https://github.com/DavidMuletMelia/Agregar-un-HTML-personalizado-a-en-servidor-web-dockerizado-Nginx/blob/main/nginxDocker/1.PNG)
 
-- Para comprobar que todo ha salido bien, visitamos `http://localhost:8080`
+- Para comprobar que todo ha salido bien, visitamos http://localhost:8080
 
 ![img](https://github.com/DavidMuletMelia/Agregar-un-HTML-personalizado-a-en-servidor-web-dockerizado-Nginx/blob/main/nginxDocker/2.PNG)
 
@@ -48,7 +48,7 @@
 
 ![img](https://github.com/DavidMuletMelia/Agregar-un-HTML-personalizado-a-en-servidor-web-dockerizado-Nginx/blob/main/nginxDocker/6.PNG)
 
-- Y ya deberiamos poder ver el resultado refrescando ![Link](http://localhost:8080)
+- Y ya deberiamos poder ver el resultado refrescando http://localhost:8080
 
 ![img](https://github.com/DavidMuletMelia/Agregar-un-HTML-personalizado-a-en-servidor-web-dockerizado-Nginx/blob/main/nginxDocker/7.PNG)
 
