@@ -12,7 +12,7 @@
 
 ![img](https://github.com/DavidMuletMelia/Agregar-un-HTML-personalizado-a-en-servidor-web-dockerizado-Nginx/blob/main/nginxDocker/1.PNG)
 
-- Para comprobar que todo ha salido bien, visitamos [Link]http://localhost:8080
+- Para comprobar que todo ha salido bien, visitamos `http://localhost:8080`
 
 ![img](https://github.com/DavidMuletMelia/Agregar-un-HTML-personalizado-a-en-servidor-web-dockerizado-Nginx/blob/main/nginxDocker/2.PNG)
 
